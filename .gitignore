@@ -1,0 +1,9 @@
+# .gitignore
+data/
+*.h5
+*.keras
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+emotion-rec/
+*.log
